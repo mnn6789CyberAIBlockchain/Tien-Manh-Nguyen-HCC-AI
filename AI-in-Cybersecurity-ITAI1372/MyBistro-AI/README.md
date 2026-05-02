@@ -68,3 +68,12 @@ streamlit run app.py
 
 Security Note
 This project is for educational purposes to demonstrate AI vulnerabilities and defensive techniques.
+
+## Sample Data
+
+This project includes synthetic data for demonstration purposes:
+
+- `docs/` → Internal knowledge base used for RAG retrieval  
+- `logs/` → Example logs for monitoring and security events  
+
+All data is artificially created and does not contain any real or sensitive information.

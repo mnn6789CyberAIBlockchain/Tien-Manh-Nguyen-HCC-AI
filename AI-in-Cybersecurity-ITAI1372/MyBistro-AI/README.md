@@ -64,3 +64,7 @@ See `requirements.txt`
 streamlit run app.py
 
 3. Enable/disable Security Shield to test behavior.
+
+
+Security Note
+This project is for educational purposes to demonstrate AI vulnerabilities and defensive techniques.

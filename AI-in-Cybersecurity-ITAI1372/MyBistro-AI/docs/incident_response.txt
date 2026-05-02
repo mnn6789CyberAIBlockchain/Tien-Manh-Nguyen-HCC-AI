@@ -1,0 +1,10 @@
+MyBistro AI Security & Incident Response Notes
+
+If MyBistro AI appears to reveal restricted customer or operational information:
+1. Disable public-facing access immediately.
+2. Notify the floor manager and operations lead.
+3. Review recent chat logs for suspicious prompts.
+4. Escalate to the system administrator for prompt injection review.
+5. Rotate any exposed internal credentials if needed.
+
+Only managers and system administrators are authorized to disable or re-enable AI shield protections in production.

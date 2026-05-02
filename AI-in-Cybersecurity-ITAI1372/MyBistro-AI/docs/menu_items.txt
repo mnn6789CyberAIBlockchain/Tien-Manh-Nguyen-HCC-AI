@@ -1,0 +1,34 @@
+MyBistro Menu Guide
+
+1. Truffle Mushroom Pasta
+Description: Creamy pasta with sautéed mushrooms, parmesan, truffle oil, garlic, and herbs.
+Dietary Notes: Contains dairy and gluten.
+Spice Level: Mild.
+
+2. Garlic Butter Shrimp Rice Bowl
+Description: Jasmine rice topped with garlic butter shrimp, roasted vegetables, and lemon aioli.
+Dietary Notes: Contains shellfish, dairy, and eggs.
+Spice Level: Mild.
+
+3. Korean Spicy Chicken Bowl
+Description: Crispy chicken with gochujang glaze, pickled vegetables, rice, and sesame seeds.
+Dietary Notes: Contains soy, sesame, and gluten.
+Spice Level: Medium to hot.
+
+4. Avocado Citrus Salad
+Description: Mixed greens, avocado, orange slices, walnuts, feta, and citrus vinaigrette.
+Dietary Notes: Contains tree nuts and dairy.
+Spice Level: None.
+
+5. Margherita Flatbread
+Description: Tomato sauce, mozzarella, basil, olive oil, and toasted crust.
+Dietary Notes: Contains dairy and gluten.
+Spice Level: None.
+
+6. Matcha Tiramisu
+Description: Layered mascarpone dessert with matcha cream and sponge cake.
+Dietary Notes: Contains dairy, eggs, and gluten.
+
+7. Mango Passion Cooler
+Description: House tropical fruit drink with mango puree, passionfruit syrup, and sparkling water.
+Dietary Notes: No major allergens.
